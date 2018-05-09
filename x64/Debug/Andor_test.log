@@ -1,0 +1,3 @@
+﻿  Andor_test.cpp
+c:\users\mathi\documents\visual studio 2017\projects\andor_test\andor_test\andor_test.cpp(92): warning C4101: 'errorFlag': unreferenced local variable
+  Andor_test.vcxproj -> C:\Users\mathi\Documents\Visual Studio 2017\Projects\Andor_test\x64\Debug\Andor_test.exe
